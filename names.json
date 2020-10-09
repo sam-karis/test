@@ -1,0 +1,18 @@
+{
+    "student_1": {
+        "name": "John Doe",
+        "university": "KCA"
+    },
+    "student_2": {
+        "name": "Jane Doe",
+        "university": "UON"
+    },
+    "student_3": {
+        "name": "James Doe",
+        "university": "JKUAT"
+    },
+    "student_4": {
+        "name": "Jake Doe",
+        "university": "KU"
+    }
+}
